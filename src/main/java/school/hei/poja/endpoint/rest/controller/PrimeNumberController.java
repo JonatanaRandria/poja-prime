@@ -1,5 +1,6 @@
 package school.hei.poja.endpoint.rest.controller;
 
+
 import school.hei.poja.service.PrimeNumberService;
 import java.math.BigInteger;
 import lombok.AllArgsConstructor;
