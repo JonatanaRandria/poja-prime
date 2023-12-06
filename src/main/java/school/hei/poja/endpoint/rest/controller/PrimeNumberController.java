@@ -1,6 +1,7 @@
-package com.poja.api.endpoint.rest.controller;
+package school.hei.poja.endpoint.rest.controller;
 
-import com.poja.api.service.PrimeNumberService;
+
+import school.hei.poja.service.PrimeNumberService;
 import java.math.BigInteger;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

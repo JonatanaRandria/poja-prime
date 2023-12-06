@@ -1,4 +1,4 @@
-package com.poja.api.service;
+package school.hei.poja.service;
 
 import java.math.BigInteger;
 import java.util.Random;

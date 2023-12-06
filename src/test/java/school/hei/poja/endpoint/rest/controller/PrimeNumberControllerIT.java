@@ -1,6 +1,6 @@
-package com.poja.api.endpoint.rest.controller;
+package school.hei.poja.endpoint.rest.controller;
 
-import com.poja.api.conf.FacadeIT;
+import school.hei.poja.conf.FacadeIT;
 import java.math.BigInteger;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
