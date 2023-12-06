@@ -7,9 +7,9 @@ frontal_memory: 512
 jacoco-min-coverage: '0.8'
 package_full_name: school.hei.poja
 region: eu-west-3
-ssm_sg_id: null
-ssm_subnet1_id: null
-ssm_subnet2_id: null
+ssm_sg_id: /poja-base/sg/id
+ssm_subnet1_id: /poja-base/subnet1/id
+ssm_subnet2_id: /poja-base/subnet2/id
 ts_client_api_url_env_var_name: ''
 ts_client_default_openapi_server_url: ''
 with_gen_clients: 'false'
